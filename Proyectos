@@ -1,9 +1,24 @@
-Estación terrestre para seguimiento de satélites
+**************************************************
+ Estación terrestre para seguimiento de satélites
+**************************************************
   https://ea4ac.com/estacion-terrestre-para-seguimiento-de-satelites/
   Mas informacion sobre este proyecto
     https://tinygs.com
   Materiales
-LoRa APRS
+    LILYGO®TTGO-módulo inalámbrico LoRa32 V2.1, Versión 1,6, 433
+
+***********
+ LoRa APRS
+***********
   https://www.eb1tr.com/lora-aprs/
   Mas información
     https://www.eb1tr.com/lora-aprs/
+  Materiales:
+    LoRa32 V2.1, Versión 1,6, 433
+    Módulo de filtro pasivo de 433MHz
+    Batería del tipo 18650
+    LILYGO® TTGO Meshtastic T-Beam V1.2 ESP32 LoRa 433MHz WiFi BLE GPS con soporte de batería OLED 0,96 de 18650 pulgadas
+
+*****************************
+ Alimentacion inenterrumpida
+*****************************
